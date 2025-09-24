@@ -1,3 +1,4 @@
+# Editado por Renata Alvarez el 23/09/2025
 $usuarios = Get-LocalUser
 $sinLogon = @()
 $conLogon = @()
